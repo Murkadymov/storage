@@ -1,6 +1,8 @@
 package storage
 
-import "modstorage/internal/file"
+import (
+	"github.com/Murkadymov/storage/internal/file"
+)
 
 type Storage struct {
 }

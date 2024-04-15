@@ -2,7 +2,7 @@ package main
 
 import (
 	"fmt"
-	"modstorage/internal/storage"
+	"github.com/Murkadymov/storage/internal/storage"
 )
 
 func main() {

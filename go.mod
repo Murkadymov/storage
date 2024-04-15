@@ -1,4 +1,4 @@
-module modstorage
+module github.com/Murkadymov/storage
 
 go 1.21.4
 
